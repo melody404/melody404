@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-*  🖊️ I am a student, learning **full stack development**
-*  💻 Left the healthcare field to _pursue_ tech 
-*  🎨 Slowly but surely **building my own website** and this is my journey !
-*  🌸 *Creativity* is a passion and an inspiration
-*  🧸 I also manage my own Etsy shop, _Dope Vibes Forever_ !
+*  🖊️ &nbsp;&nbsp; I am a student, learning **full stack development**
+*  💻 &nbsp;&nbsp; Left the healthcare field to _pursue_ tech 
+*  🎨 &nbsp;&nbsp; Slowly but surely **building my own website** and this is my journey !
+*  🌸 &nbsp;&nbsp; *Creativity* is a passion and an inspiration
+*  🧸 &nbsp;&nbsp; I also manage my own Etsy shop, _Dope Vibes Forever_ !
